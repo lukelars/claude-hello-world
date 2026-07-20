@@ -12,4 +12,4 @@ A small Python script that greets you.
 python hello.py
 ```
 
-It print a friendly greeting to the console.
+It prints a friendly greeting to the console.
